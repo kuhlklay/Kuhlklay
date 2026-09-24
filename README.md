@@ -1,7 +1,9 @@
 <div align="center">
 
-# Coding with Zusk
+## Coding with Zusk
 *My own little programming language*
+
+---
 
 ### Languages
 <img src="https://cdn.simpleicons.org/rust/000/fff" width="40" height="40" alt="Rust">
