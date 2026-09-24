@@ -6,6 +6,6 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 <img src="https://cdn.simpleicons.org/rust" width="24">
 <img src="https://cdn.simpleicons.org/c" width="24">
-<img src="https://cdn.simpleicons.org/cpp" width="24">
+<img src="https://cdn.simpleicons.org/cplusplus" width="24">
 <img src="https://cdn.simpleicons.org/zig" width="24">
-<img src="https://cdn.simpleicons.org/artix-linux" width="24">
+<img src="https://cdn.simpleicons.org/artixlinux" width="24">
